@@ -1,0 +1,7 @@
+[package]
+name = "objc-basic"
+version = "0.1.0"
+authors = ["Adam Faur <adam.faur@gmail.com>"]
+
+[dependencies]
+objc = "*"
